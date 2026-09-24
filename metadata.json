@@ -1,0 +1,6 @@
+{
+  "name": "Nova Cyber AI",
+  "description": "Futuristic ambient AI cyber assistant with holographic floating orb, voice terminal, live camera vision, GPS telemetry, shock safety guardian, call screening, and vehicle registry verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
